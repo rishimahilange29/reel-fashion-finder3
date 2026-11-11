@@ -1,0 +1,6 @@
+streamlit
+requests
+yt-dlp
+opencv-python-headless
+google-genai
+pillow
